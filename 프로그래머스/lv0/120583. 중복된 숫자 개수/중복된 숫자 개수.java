@@ -5,9 +5,8 @@ class Solution {
         
         for(int i = 0; i < array.length; i++) {
             if(array[i] == n) {
-                a++;
+                answer++;
             }
-            answer = a;
         }
         return answer;
     }

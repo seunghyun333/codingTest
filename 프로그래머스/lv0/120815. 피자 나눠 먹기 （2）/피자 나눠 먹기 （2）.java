@@ -18,15 +18,7 @@ class Solution {
                 break;
             }
         
-//         if(n % 6 == 0) {
-//             answer = n/6;     
-//         } else if (n % 2 == 0 && n % 6 != 0) {
-//             answer = n / 2;
-//         } else if (n % 3 == 0 && n % 6 != 0) {
-//             answer = n / 3;
-//         } else if (n % 6 !=0 && n % 3 != 0 && n % 2 != 0) {
-//             answer = n * 6;
-//         }
+
        
     }return answer; 
 }}
